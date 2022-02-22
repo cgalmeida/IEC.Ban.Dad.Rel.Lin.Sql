@@ -1,1 +1,1 @@
-# IEC.Ban.Dad.Rel.Lin.Sql.
+# IEC.Ban.Dad.Rel.Lin.Sql
